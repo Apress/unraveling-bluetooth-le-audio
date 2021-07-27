@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](https://www.apress.com/9781484266571) by Himanshu Bhalla and Oren Haggai (Apress, 2021).
+This repository accompanies [*Unraveling Bluetooth LE Audio*](https://www.apress.com/9781484266571) by Himanshu Bhalla and Oren Haggai (Apress, 2021).
 
 [comment]: #cover
 ![Cover image](9781484266571.jpg)
