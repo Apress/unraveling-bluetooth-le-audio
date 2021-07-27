@@ -1,4 +1,4 @@
-# Apress Source Code
+# Apress Supplementary Material
 
 This repository accompanies [*Unraveling Bluetooth LE Audio*](https://www.apress.com/9781484266571) by Himanshu Bhalla and Oren Haggai (Apress, 2021).
 
